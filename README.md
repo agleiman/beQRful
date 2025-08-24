@@ -76,6 +76,7 @@ python QRMain.py
 ### Security APIs Used:
 - **VirusTotal** - Comprehensive malware and threat detection
 - **Google Safe Browsing** - Phishing and malware protection
+- **Phishtank** - Identify and verify phishing websites
 - **SSL Certificate Validation** - HTTPS security verification
 
 ## Output Format
