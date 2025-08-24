@@ -98,7 +98,7 @@ All scan results are automatically saved with timestamps for security auditing a
 - **Encrypted Data Storage**: Secure handling of sensitive QR code data
 - **Integrity Verification**: HMAC signatures prevent data tampering
 
-## 🛠Technical Specifications
+## Technical Specifications
 
 - **Encryption**: AES-256-CBC with PKCS7 padding
 - **Hashing**: HMAC-SHA256 for data integrity
