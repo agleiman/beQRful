@@ -15,11 +15,11 @@ from concurrent.futures import ThreadPoolExecutor  # Used to run multiple functi
 
 class QRScanner:  # Defines a class named QRScanner
     CSV_FILE = "QR_info.csv"  # The name of the CSV file where results will be stored
-    API_KEY = "620f08e70dd2e18baaed91974a00bafc69243b54102584d5297e50b6ee01d5b5"  # VirusTotal API key
-    VIRUSTOTAL_API_URL = "https://www.virustotal.com/api/v3/urls/"  # URL for VirusTotal API
-    PHISHTANK_API_URL = "https://checkurl.phishtank.com/checkurl/index.php"  # URL for PhishTank API (not used here)
-    GOOGLE_SAFE_BROWSING_API_URL = "https://safebrowsing.googleapis.com/v4/threatMatches:find"  # Google Safe Browsing API URL
-    GOOGLE_API_KEY = "AIzaSyDnrBjEv1ySf8YRQVwYYBOtElfo2sEaMDY"  # Google Safe Browsing API key
+    API_KEY = "<enter-your-own>"  # VirusTotal API key
+    VIRUSTOTAL_API_URL = "<enter-your-own>"  # URL for VirusTotal API
+    PHISHTANK_API_URL = "<enter-your-own>"  # URL for PhishTank API
+    GOOGLE_SAFE_BROWSING_API_URL = "<enter-your-own>"  # Google Safe Browsing API URL
+    GOOGLE_API_KEY = "<enter-your-own>"  # Google Safe Browsing API key
 
     # List of keywords or phrases commonly associated with malicious content
     MALICIOUS_PATTERNS = [
