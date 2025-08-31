@@ -23,30 +23,6 @@ A comprehensive Python-based security tool that provides QR code scanning with m
 - **Secure Key Generation**: Uses cryptographically secure random keys
 - Perfect for transmitting confidential information
 
-## Getting Started
-
-### Prerequisites
-```bash
-pip install qrcode pillow pyzbar requests cryptography colorama
-```
-
-### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/beqrful.git
-cd beqrful
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the application:
-```bash
-python QRMain.py
-```
-
 ## Usage
 
 ### Main Menu Options:
