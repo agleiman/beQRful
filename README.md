@@ -1,7 +1,7 @@
 # beQRful
 **QR Code Scanner, Generator, and Encryption Tool**
 
-A comprehensive Python-based security tool that provides QR code scanning with malicious URL detection, QR code generation, and encrypted QR code creation for secure data transmission.
+A Python-based security tool that provides QR code scanning with malicious URL detection, QR code generation, and encrypted QR code creation for secure data transmission.
 
 ## Features
 
